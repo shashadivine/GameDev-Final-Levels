@@ -1,0 +1,14 @@
+IDLE01 0 0 32 32 // up idle
+IDLE02 32 0 32 32 // left idle
+IDLE03 64 0 32 32 // down idle
+IDLE04 96 0 32 32 // right idle
+
+DODGE 0 32 32 32 // dodge
+
+WEAPON01 32 32 32 32 // weapon up
+WEAPON02 64 32 32 32 // weapon left
+WEAPON03 96 32 32 32 // weapon down
+WEAPON04 0 64 32 32 // weapon right
+
+BLOCK 32 64 32 32 // block 
+
