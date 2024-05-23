@@ -1,6 +1,8 @@
 # Little Red Riding Hood
 Little Red Riding Hood is an expansion of the Group's Homework 4 Level Creation. It introduces little red as the player character. The player ventures into a deep, dark forest to search for their grandmother. Along the journey, the player encounter wolves that prey against them, culminating in a tense encounter with ghosts in an eerie, abandoned mansion. 
 
+I have included a demo video of the game in case the code cannot be executed on your machine or if you encounter any technical difficulties. Otherwise, I hope you enjoy our game :).
+
 # The game is made up of 2 levels:
 **Level 1**
 Advancing to LEVEL 2 requires the player to kill all 3 enemies and navigate the vast forest and find the stairs that will lead to the haunted mansion. The player have to be cautious  of the mud tiles that slow them down and of the very danger that lies ahead--of wolves wandering around the forest, ready to strike at any moment. The player will lose if you get killed by the enemies.
@@ -11,7 +13,7 @@ Set in the abandoned mansion. Some of the enemies in LEVEL 2 have a larger detec
 
 # Prerequisites 
 	Raylib Library
-  C++
+  	C++
 
 # Running the Game 
 **Windows**
@@ -34,4 +36,4 @@ Set in the abandoned mansion. Some of the enemies in LEVEL 2 have a larger detec
 # Credits 
 	Art by Sol Requiz 
 	Backend by Prue Evangelista, Shasha Lee, and Sol Requiz
-  UI by Shasha Lee
+  	UI by Shasha Lee
